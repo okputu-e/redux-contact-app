@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/redux-contact-app/static/js/main.9c881c40.js",
+    "static/js/787.ded635f6.chunk.js": "/redux-contact-app/static/js/787.ded635f6.chunk.js",
+    "index.html": "/redux-contact-app/index.html",
+    "main.9c881c40.js.map": "/redux-contact-app/static/js/main.9c881c40.js.map",
+    "787.ded635f6.chunk.js.map": "/redux-contact-app/static/js/787.ded635f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9c881c40.js"
+  ]
+}
